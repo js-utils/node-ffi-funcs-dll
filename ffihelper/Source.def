@@ -1,0 +1,4 @@
+LIBRARY ffihelper
+EXPORTS
+HBitmapToBmpFile
+HWndToBmpFile
